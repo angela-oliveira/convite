@@ -21,7 +21,7 @@ export const metadata: Metadata = {
     type: "website",
     images: [
       {
-        url: "/og-image.svg",
+        url: "/og-image.png",
         width: 1200,
         height: 630,
         alt: "Convite Aniversário Ângela - Birthday Airlines",
@@ -32,7 +32,7 @@ export const metadata: Metadata = {
     card: "summary_large_image",
     title: "Convite Aniversário Ângela - Birthday Airlines",
     description: "Convite de aniversário estilo boarding pass para o 33º aniversário da Ângela",
-    images: ["/og-image.svg"],
+    images: ["/og-image.png"],
   },
 };
 
