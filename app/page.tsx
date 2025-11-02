@@ -57,7 +57,7 @@ export default function Home() {
             </div>
             <div className="flex flex-col">
               <span className="text-xs sm:text-sm text-gray-500 uppercase mb-1">Classe</span>
-              <span className="text-xl font-bold bg-gradient-to-r from-yellow-400 to-yellow-500 text-transparent bg-clip-text">Primeira Classe</span>
+              <span className="text-lg sm:text-xl font-bold bg-gradient-to-r from-yellow-400 to-yellow-500 text-transparent bg-clip-text">Primeira Classe</span>
             </div>
             <div className="flex flex-col">
               <span className="text-xs sm:text-sm text-gray-500 uppercase mb-1">Voo Especial</span>
