@@ -15,6 +15,25 @@ const geistMono = Geist_Mono({
 export const metadata: Metadata = {
   title: "Convite Aniversário Ângela - Birthday Airlines",
   description: "Convite de aniversário estilo boarding pass para o 33º aniversário da Ângela",
+  openGraph: {
+    title: "Convite Aniversário Ângela - Birthday Airlines",
+    description: "Convite de aniversário estilo boarding pass para o 33º aniversário da Ângela",
+    type: "website",
+    images: [
+      {
+        url: "/og-image.jpg",
+        width: 1200,
+        height: 630,
+        alt: "Convite Aniversário Ângela - Birthday Airlines",
+      },
+    ],
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: "Convite Aniversário Ângela - Birthday Airlines",
+    description: "Convite de aniversário estilo boarding pass para o 33º aniversário da Ângela",
+    images: ["/og-image.jpg"],
+  },
 };
 
 export default function RootLayout({
