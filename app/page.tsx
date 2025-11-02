@@ -109,7 +109,7 @@ export default function Home() {
                 <span className="text-sm sm:text-base">Confirmar Presença</span>
               </a>
               <a
-                href="https://www.google.com/maps?q=Karaokê+TocaPub"
+                href="https://maps.app.goo.gl/jh6DtK7w7KHUh8wi6"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex-1 flex items-center justify-center gap-2 bg-white border-2 border-purple-600 text-purple-600 hover:bg-purple-50 font-semibold py-3 px-4 rounded-xl shadow-lg transition-colors"
