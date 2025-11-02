@@ -100,7 +100,7 @@ export default function Home() {
             {/* Buttons */}
             <div className="flex flex-col sm:flex-row gap-3 mb-6">
               <a
-                href="https://wa.me/5583988432834?text=Check-in%20confirmado!%20Estarei%20presente%20no%20anivers%C3%A1rio%20da%20%C3%82ngela!%20🎉✈️"
+                href="https://wa.me/5583988432834?text=Check-in%20confirmado!%20Estarei%20presente%20neste%20voo!%20🎉✈️"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex-1 flex items-center justify-center gap-2 bg-purple-600 hover:bg-purple-700 text-white font-semibold py-3 px-4 rounded-xl shadow-lg transition-colors"
