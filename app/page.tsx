@@ -15,7 +15,7 @@ import {
 
 export default function Home() {
   return (
-    <main className="min-h-screen flex flex-col items-center justify-center bg-gradient-to-b from-purple-800 via-purple-600 to-purple-400 p-4 sm:p-6">
+    <main className="min-h-screen flex flex-col items-center justify-center bg-linear-to-b from-purple-800 via-purple-600 to-purple-400 p-4 sm:p-6">
       {/* Cartão estilo boarding pass */}
       <div className="relative bg-white rounded-3xl shadow-2xl w-full max-w-lg overflow-hidden">
         {/* Header BIRTHDAY AIRLINES */}
@@ -53,23 +53,23 @@ export default function Home() {
           <div className="grid grid-cols-2 gap-4 sm:gap-6 mb-6">
             <div className="flex flex-col">
               <span className="text-xs sm:text-sm text-gray-500 uppercase mb-1">Passageiro</span>
-              <span className="text-lg sm:text-xl font-bold text-gray-900">Ângela</span>
+              <span className="text-xl font-bold text-gray-900">Ângela</span>
             </div>
             <div className="flex flex-col">
               <span className="text-xs sm:text-sm text-gray-500 uppercase mb-1">Classe</span>
-              <span className="text-lg sm:text-xl font-bold bg-gradient-to-r from-yellow-400 to-yellow-500 text-transparent bg-clip-text">Primeira Classe</span>
+              <span className="text-xl font-bold bg-gradient-to-r from-yellow-400 to-yellow-500 text-transparent bg-clip-text">Primeira Classe</span>
             </div>
             <div className="flex flex-col">
               <span className="text-xs sm:text-sm text-gray-500 uppercase mb-1">Voo Especial</span>
-              <span className="text-lg sm:text-xl font-bold text-gray-900">33 Anos</span>
+              <span className="text-xl font-bold text-gray-900">33 Anos</span>
             </div>
             <div className="flex flex-col">
               <span className="text-xs sm:text-sm text-gray-500 uppercase mb-1">Data de Embarque</span>
-              <span className="text-lg sm:text-xl font-bold text-gray-900">25/11</span>
+              <span className="text-xl font-bold text-gray-900">25/11</span>
             </div>
             <div className="flex flex-col col-span-2">
               <span className="text-xs sm:text-sm text-gray-500 uppercase mb-1">Destino Final</span>
-              <span className="text-lg sm:text-xl font-bold text-gray-900">Karaoke TocaPub</span>
+              <span className="text-xl font-bold text-gray-900">Karaoke TocaPub</span>
             </div>
           </div>
 
